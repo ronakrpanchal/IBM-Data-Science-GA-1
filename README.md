@@ -1,4 +1,4 @@
-# IBM Data Science Graded Assignment - 1
+# Introduction to Jupyter Notebook
 
 Welcome to the IBM Data Science Graded Assignment - 1! This notebook is designed to help you get familiar with using Markdown and code in Jupyter Notebook. Below, you'll find various examples and instructions to guide you through creating and styling your own notebook.
 
